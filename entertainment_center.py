@@ -5,3 +5,5 @@ the_godfather = media.Movie("The Godfather",
                             "empire to his reluctant son. ",
                             "http://dramatica.com/resources/onesheets/the-godfather-one-sheet.jpg",
                             "https://www.youtube.com/watch?v=sY1S34973zA")
+
+print the_godfather.storyline
