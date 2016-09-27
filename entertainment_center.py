@@ -19,6 +19,6 @@ lord_of_rings = media.Movie("The Lord of the Rings: The Two Towers ",
                             "http://www.gstatic.com/tv/thumb/movieposters/30793/p30793_p_v8_am.jpg",
                             "https://www.youtube.com/watch?v=2dlRvAjU_RI")
 
-print the_godfather.title + ": " + the_godfather.storyline
-print pulp_fiction.title + ": " + pulp_fiction.storyline
-print lord_of_rings.title + ": " + lord_of_rings.storyline
+print the_godfather.title + " - " + the_godfather.storyline
+print pulp_fiction.title + " - " + pulp_fiction.storyline
+print lord_of_rings.title + " - " + lord_of_rings.storyline
