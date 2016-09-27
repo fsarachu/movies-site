@@ -22,3 +22,5 @@ lord_of_rings = media.Movie("The Lord of the Rings: The Two Towers ",
 print the_godfather.title + " - " + the_godfather.storyline
 print pulp_fiction.title + " - " + pulp_fiction.storyline
 print lord_of_rings.title + " - " + lord_of_rings.storyline
+
+the_godfather.show_trailer()
