@@ -1,3 +1,4 @@
+import fresh_tomatoes
 import media
 
 movies = [
@@ -34,6 +35,6 @@ movies = [
                 "https://www.youtube.com/watch?v=3PsUJFEBC74")
 ]
 
-# fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
 
-print media.Movie.__doc__
+# print media.Movie.__doc__
